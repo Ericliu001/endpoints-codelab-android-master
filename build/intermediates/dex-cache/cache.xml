@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pre-dex-items>
+
+    <item
+        dex="/Users/liu/Software Development/Android/Example Projects/endpoints-codelab-android-master/todoTxtTouch/build/intermediates/pre-dexed/debug/classes-50a9906756836750729747aae01b19d24a53eb65.jar"
+        jar="/Users/liu/Software Development/Android/Example Projects/endpoints-codelab-android-master/build/intermediates/exploded-aar/endpoints-codelab-android-master/actionBarPullToRefreshextras/unspecified/classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="7a69803400bb49d73f88711e36a04a0e15f27676"/>
+    <item
+        dex="/Users/liu/Software Development/Android/Example Projects/endpoints-codelab-android-master/todoTxtTouch/build/intermediates/pre-dexed/debug/classes-c3b6610d9e522c2676778dcb05676f2141a05832.jar"
+        jar="/Users/liu/Software Development/Android/Example Projects/endpoints-codelab-android-master/build/intermediates/exploded-aar/endpoints-codelab-android-master/chuckbjonesSwipeToDismissUndoListec6bf93/unspecified/classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="0d4fa0876c37213126ac098dfb9f35b561239cfd"/>
+    <item
+        dex="/Users/liu/Software Development/Android/Example Projects/endpoints-codelab-android-master/todoTxtTouch/build/intermediates/pre-dexed/debug/internal_impl-20.0.0-a497a9eb1ac667af9f8122a3605a12186fa320a1.jar"
+        jar="/Users/liu/Software Development/Android/Example Projects/endpoints-codelab-android-master/build/intermediates/exploded-aar/com.android.support/support-v4/20.0.0/libs/internal_impl-20.0.0.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="e40b3078e3fbd353c9f44da8df25a8fc0078209d"/>
+    <item
+        dex="/Users/liu/Software Development/Android/Example Projects/endpoints-codelab-android-master/todoTxtTouch/build/intermediates/pre-dexed/debug/signpost-core-1.2.1.1-aa8c5b55f1e437cdecb7e16ef7b9b74e1b6b36ca.jar"
+        jar="/Users/liu/Software Development/Android/Example Projects/endpoints-codelab-android-master/todoTxtTouch/libs/signpost-core-1.2.1.1.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="d1b39a438178bc885d724458de64cee33f1932a6"/>
+    <item
+        dex="/Users/liu/Software Development/Android/Example Projects/endpoints-codelab-android-master/todoTxtTouch/build/intermediates/pre-dexed/debug/support-annotations-20.0.0-bca9cd8c8082330ef7549e0398af852faae531fd.jar"
+        jar="/Applications/Android Studio.app/sdk/extras/android/m2repository/com/android/support/support-annotations/20.0.0/support-annotations-20.0.0.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="9d9013e9ff35fc3756411e62873c363c70c638fa"/>
+    <item
+        dex="/Users/liu/Software Development/Android/Example Projects/endpoints-codelab-android-master/todoTxtTouch/build/intermediates/pre-dexed/debug/json_simple-1.1-81e37e0ce35cde7b850460211832763a4d1576d6.jar"
+        jar="/Users/liu/Software Development/Android/Example Projects/endpoints-codelab-android-master/todoTxtTouch/libs/json_simple-1.1.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="5e303a03d04e6788dddfa3655272580ae0fc13bb"/>
+    <item
+        dex="/Users/liu/Software Development/Android/Example Projects/endpoints-codelab-android-master/todoTxtTouch/build/intermediates/pre-dexed/debug/libphonenumber-4.1-eb11abcadf5e46163e2d59176fe72fcb83ab1b53.jar"
+        jar="/Users/liu/Software Development/Android/Example Projects/endpoints-codelab-android-master/todoTxtTouch/libs/libphonenumber-4.1.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="c6ce838a73af4b45b225a22135b7580e2b0313af"/>
+    <item
+        dex="/Users/liu/Software Development/Android/Example Projects/endpoints-codelab-android-master/todoTxtTouch/build/intermediates/pre-dexed/debug/apache-mime4j-0.6-bac444b081892ad4ea9b0821d6d7c68a0de518ac.jar"
+        jar="/Users/liu/Software Development/Android/Example Projects/endpoints-codelab-android-master/todoTxtTouch/libs/apache-mime4j-0.6.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="12e7270b1819bae792c9a9e5e8076ebbcdaaac4b"/>
+    <item
+        dex="/Users/liu/Software Development/Android/Example Projects/endpoints-codelab-android-master/todoTxtTouch/build/intermediates/pre-dexed/debug/classes-e937bea2aed5815bed375c5f32cf1110cb982dc3.jar"
+        jar="/Users/liu/Software Development/Android/Example Projects/endpoints-codelab-android-master/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="af64527b748983a75de9c0756e9768b56b240a49"/>
+    <item
+        dex="/Users/liu/Software Development/Android/Example Projects/endpoints-codelab-android-master/todoTxtTouch/build/intermediates/pre-dexed/debug/classes-2d14f7afb8e5cb8673ded07a39777fa10f599ee6.jar"
+        jar="/Users/liu/Software Development/Android/Example Projects/endpoints-codelab-android-master/build/intermediates/exploded-aar/endpoints-codelab-android-master/actionBarPullToRefresh/unspecified/classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="c7ae8ba4ef8dede3330566950be208f31943aa46"/>
+    <item
+        dex="/Users/liu/Software Development/Android/Example Projects/endpoints-codelab-android-master/todoTxtTouch/build/intermediates/pre-dexed/debug/signpost-commonshttp4-1.2.1.1-1c2b8df74336844fb1aa09f9a53ad8e3b484b392.jar"
+        jar="/Users/liu/Software Development/Android/Example Projects/endpoints-codelab-android-master/todoTxtTouch/libs/signpost-commonshttp4-1.2.1.1.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="576194c2d9ecf9382ed5ab913de8b36640507847"/>
+    <item
+        dex="/Users/liu/Software Development/Android/Example Projects/endpoints-codelab-android-master/todoTxtTouch/build/intermediates/pre-dexed/debug/httpmime-4.0.3-9e43f04da01df360e7ce2d38c1cf752a8cc73c31.jar"
+        jar="/Users/liu/Software Development/Android/Example Projects/endpoints-codelab-android-master/todoTxtTouch/libs/httpmime-4.0.3.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="dd1973851926925e02d0bbdf4ec0f7435d8292ce"/>
+    <item
+        dex="/Users/liu/Software Development/Android/Example Projects/endpoints-codelab-android-master/todoTxtTouch/build/intermediates/pre-dexed/debug/nineoldandroids-2.4.0-7c074495b15ad64679741e0cf0d198aa08f7648b.jar"
+        jar="/Users/liu/Software Development/Android/Example Projects/endpoints-codelab-android-master/build/intermediates/exploded-aar/endpoints-codelab-android-master/chuckbjonesSwipeToDismissUndoListec6bf93/unspecified/libs/nineoldandroids-2.4.0.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="a43cf9e271b5bc564e880a0a4be63ab9c69c97f8"/>
+    <item
+        dex="/Users/liu/Software Development/Android/Example Projects/endpoints-codelab-android-master/todoTxtTouch/build/intermediates/pre-dexed/debug/classes-744fa6247e5ac8174e87ab3d225a16abef23bf85.jar"
+        jar="/Users/liu/Software Development/Android/Example Projects/endpoints-codelab-android-master/build/intermediates/exploded-aar/com.android.support/support-v4/20.0.0/classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="8694693636ab36910c8100ce527c258ff3ebece0"/>
+
+</pre-dex-items>
